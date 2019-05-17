@@ -1,0 +1,6 @@
+model_checkpoint_path: "/scratch/el00244/squeezeDet/new_results/train/model.ckpt-34999"
+all_model_checkpoint_paths: "/scratch/el00244/squeezeDet/new_results/train/model.ckpt-33000"
+all_model_checkpoint_paths: "/scratch/el00244/squeezeDet/new_results/train/model.ckpt-33500"
+all_model_checkpoint_paths: "/scratch/el00244/squeezeDet/new_results/train/model.ckpt-34000"
+all_model_checkpoint_paths: "/scratch/el00244/squeezeDet/new_results/train/model.ckpt-34500"
+all_model_checkpoint_paths: "/scratch/el00244/squeezeDet/new_results/train/model.ckpt-34999"
